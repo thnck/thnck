@@ -1,4 +1,8 @@
-## Eae 👋
+### thnck 🌐
+- 🧩 Em construção.
+- 💡 Cursando ADS pelo SENAI-SP
+- ☕ Java enjoyer
+- 📧 ythnck@gmail.com
 <div>
   <a href="https://github.com/thnck">
 </div>
