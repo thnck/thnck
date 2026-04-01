@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Eae 👋
 <div>
   <a href="https://github.com/thnck">
